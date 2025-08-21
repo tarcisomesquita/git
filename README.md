@@ -1,6 +1,6 @@
 # git
 
-Quero usar o github.com para compartilhar meu conhecimento com a [internet](https://tarcisomesquita.github.io/git/internet).
+Quero usar o [github-pages](https://tarcisomesquita.github.io/git/github-pages) para compartilhar meu conhecimento com a [internet](https://tarcisomesquita.github.io/git/internet).
 
 
 ---
