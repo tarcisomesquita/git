@@ -2,7 +2,6 @@
 Quero usar o github.com para compartilhar meu conhecimento com a internet.
 
 <footer style='font-family:"sans-serif"; font-size:10px;'>
-[Política de privacidade](https://tarcisomesquita.github.io/ceejapd/privacidade.html)
 
 Autor: [Tarciso Mesquita](https://tarcisomesquita.github.io)
 
